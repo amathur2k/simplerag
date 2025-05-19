@@ -1,0 +1,12 @@
+python-dotenv
+pinecone-client
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+sentence-transformers
+tiktoken
+pypdf
+unstructured
+# Add other specific versions if needed, e.g., pinecone-client==3.0.0
